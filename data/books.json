@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "73835199-d0a8-4649-8a77-5909c3899667",
+    "title": "1984",
+    "author": "George Orwell",
+    "added_at": "2025-11-06T21:16:42.591502",
+    "is_available": true
+  },
+  {
+    "id": "a632380e-d177-420f-bf00-264397a2c38c",
+    "title": "Harry Potter",
+    "author": "J.K. Rowling",
+    "added_at": "2025-11-06T21:16:42.591502",
+    "is_available": true
+  }
+]
