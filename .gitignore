@@ -1,2 +1,33 @@
-data/
+# Python
 __pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Données locales
+data/*.json
+
+# Logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.bak
