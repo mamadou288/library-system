@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "id": "7fd206d5-3f57-4bd9-979d-bb991d638839",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "added_at": "2025-11-07T14:40:55.570182",
+    "is_available": true
+  },
+  {
+    "id": "2811137e-c3c4-4b20-83b4-97dd64020b55",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling",
+    "added_at": "2025-11-07T14:40:55.570713",
+    "is_available": true
+  },
+  {
+    "id": "0bd08fc6-5b4f-4ceb-9251-9d1a0a2bb067",
+    "title": "1984",
+    "author": "George Orwell",
+    "added_at": "2025-11-07T14:40:55.572204",
+    "is_available": true
+  },
+  {
+    "id": "1bd286f4-cd25-4da9-924c-8198647c9b0d",
+    "title": "Le Petit Prince",
+    "author": "Antoine de Saint-Exup\u00e9ry",
+    "added_at": "2025-11-07T14:40:55.572737",
+    "is_available": true
+  },
+  {
+    "id": "b44368d5-1d1b-4d0c-8ce0-39442b6ff329",
+    "title": "1984",
+    "author": "George Orwell",
+    "added_at": "2025-11-07T14:52:33.888488",
+    "is_available": true
+  },
+  {
+    "id": "f1aa13f0-aef0-4380-9834-3b5437019cc0",
+    "title": "Le Petit Prince",
+    "author": "Antoine de Saint-Exup\u00e9ry",
+    "added_at": "2025-11-07T14:52:33.889546",
+    "is_available": true
+  },
+  {
+    "id": "84755bf2-d641-45a6-b49c-ca5cab6a9481",
+    "title": "Harry Potter",
+    "author": "J.K. Rowling",
+    "added_at": "2025-11-07T14:52:33.890588",
+    "is_available": true
+  },
+  {
+    "id": "a7ff14ef-8198-4c2d-9474-88b99c5caea5",
+    "title": "1984",
+    "author": "George Orwell",
+    "added_at": "2025-11-07T14:52:53.838306",
+    "is_available": true
+  },
+  {
+    "id": "f779ac67-3583-439d-b0e7-732abf14eb0b",
+    "title": "Le Petit Prince",
+    "author": "Antoine de Saint-Exup\u00e9ry",
+    "added_at": "2025-11-07T14:52:53.839390",
+    "is_available": true
+  },
+  {
+    "id": "90dbc5a2-32b5-4959-9a16-fba0c9db1b09",
+    "title": "Harry Potter",
+    "author": "J.K. Rowling",
+    "added_at": "2025-11-07T14:52:53.840561",
+    "is_available": true
+  }
+]
